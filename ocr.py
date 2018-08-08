@@ -34,6 +34,3 @@ print (get_string(src_path + "ocr.png"))
 
 print ("-----------------------------------Done----------------------------------------")
     
-
-#http://www.tramvm.com/2017/05/recognize-text-from-image-with-python.html
-#https://www.youtube.com/watch?v=83vFL6d57OI
